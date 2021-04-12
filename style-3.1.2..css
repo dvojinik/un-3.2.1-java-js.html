@@ -1,0 +1,26 @@
+table{
+    color:rgb(14, 5, 65);
+    }
+    [colspan="3"]{
+        color: chocolate;
+    }  
+.table-rgb{
+    color:rgb(0, 128, 107);
+
+}
+.table-blue{
+    color: blue;
+
+}    
+.table-bold{
+    font-weight: bold;
+}
+.boreji > li{
+    color: darkgoldenrod;
+}
+.font-size-md{
+    font-size: 25px;
+}
+.font-size-md.color-red{
+    color:red;
+}
